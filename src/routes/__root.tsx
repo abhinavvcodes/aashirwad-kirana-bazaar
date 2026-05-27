@@ -72,14 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Aash" },
+      { name: "description", content: "Aashirwad Kirana is an Indian online grocery e-commerce store for household essentials." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Aash" },
+      { property: "og:description", content: "Aashirwad Kirana is an Indian online grocery e-commerce store for household essentials." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Aash" },
+      { name: "twitter:description", content: "Aashirwad Kirana is an Indian online grocery e-commerce store for household essentials." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/08cdf238-b20d-4ddc-90ee-ff8283031f88/id-preview-06c01959--e67d4885-13a0-4b62-998a-4386a1dc7e94.lovable.app-1779910006057.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/08cdf238-b20d-4ddc-90ee-ff8283031f88/id-preview-06c01959--e67d4885-13a0-4b62-998a-4386a1dc7e94.lovable.app-1779910006057.png" },
     ],
     links: [
       {
