@@ -22,7 +22,7 @@ export function Header({ cartCount = 3 }: { cartCount?: number }) {
       <div className="bg-primary text-primary-foreground text-xs">
         <div className="container mx-auto px-4 py-1.5 flex justify-between">
           <span>Free delivery on orders above ₹499</span>
-          <span className="hidden sm:inline">Call us: +91 98765 43210</span>
+          <span className="hidden sm:inline">Call me: 6206249126</span>
         </div>
       </div>
       <div className="container mx-auto px-4 py-3 flex items-center gap-4">
